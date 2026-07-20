@@ -1,0 +1,2 @@
+k,n,accuracy,precision,recall,f1,pass_rate
+15,250,0.512,0.5065,0.936,0.6573,0.896

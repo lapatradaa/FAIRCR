@@ -1,0 +1,12 @@
+{
+  "model": "gpt-4o-mini",
+  "timestamp": "2026-07-18T10:29:18.811765+00:00",
+  "dataset": "issue_location/dataset-issue-location.csv",
+  "n_snippets": 50,
+  "snippet_seed": 0,
+  "k_min": 15,
+  "k_max": 15,
+  "value_seed": 12,
+  "combo_seed": 11,
+  "combo_budget": 1365
+}
